@@ -2,8 +2,6 @@ package com.ahchentong.monitoring.server.util;
 
 import com.ahchentong.monitoring.server.bean.ReceiveUDPBean;
 
-import java.io.ByteArrayInputStream;
-import java.io.DataInputStream;
 import java.io.IOException;
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
@@ -30,12 +28,13 @@ public class ReceiveUDPUtils {
      * 二.接收数据
      * @param datagramSocket
      */
-    public static ReceiveUDPBean receive(DatagramSocket datagramSocket){
+    public static ReceiveUDPBean receive(DatagramSocket datagramSocket,int byteLength){
         if (datagramSocket == null){
             return new ReceiveUDPBean(false);
         } else {
             // 1.创建数据存放位置并封装
-            byte[] bit = new byte[1024];
+            //byte[] bit = new byte[1048576]; // 1MB
+            byte[] bit = new byte[byteLength];
             DatagramPacket unpack = new DatagramPacket(bit,bit.length);
             // 2.阻塞
             try {
@@ -66,14 +65,7 @@ public class ReceiveUDPUtils {
     }
 
     public static String byteToStr(DatagramPacket unpack){
-        DataInputStream istream = new DataInputStream(new ByteArrayInputStream(unpack.getData(), unpack.getOffset(), unpack.getLength()));
-        //获取信息
-        String msg = null;
-        try {
-            msg = istream.readUTF();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
+        String msg = new String(unpack.getData(),0,unpack.getLength());
         return msg;
     }
 }
