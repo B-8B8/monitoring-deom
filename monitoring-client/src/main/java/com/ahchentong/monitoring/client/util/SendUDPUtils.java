@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.net.*;
 
 public class SendUDPUtils {
-    public static void send(){
+    public static void send(String host,int port,String msg){
         // 1.建立UDP SOCKET端点
         DatagramSocket datagramSocket = null;
         try {
@@ -16,11 +16,11 @@ public class SendUDPUtils {
         }
         // 2.提供数据，封装打包
         //byte[] bit = "正在测试UDP发送 - 客户端".getBytes();
-        byte[] bit = strToByteArray("正在测试UDP发送 - 客户端");
+        byte[] bit = strToByteArray(msg);
         DatagramPacket encapsulation = null;
         try {
             //encapsulation = new DatagramPacket(bit,bit.length, InetAddress.getByName("192.168.3.39"),65534);
-            encapsulation = new DatagramPacket(bit,bit.length, InetAddress.getByName("localhost"),65534);
+            encapsulation = new DatagramPacket(bit,bit.length, InetAddress.getByName(host),port);
         } catch (UnknownHostException e) {
             e.printStackTrace();
         }

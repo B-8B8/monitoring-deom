@@ -1,11 +1,9 @@
 package com.ahchentong.monitoring.server;
 
-import com.ahchentong.monitoring.server.util.ReceiveUDPUtils;
+import com.ahchentong.monitoring.server.service.ReceiveUDPService;
 
 public class MonitoringServer {
     public static void main(String[] args) {
-        while (true){
-            ReceiveUDPUtils.receive();
-        }
+        ReceiveUDPService.run();
     }
 }
