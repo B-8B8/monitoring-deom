@@ -37,7 +37,7 @@ public class SendUDPUtils {
     }
 
     public static byte[] strToByteArray(String msg){
-        ByteArrayOutputStream ostream = new ByteArrayOutputStream();
+        /*ByteArrayOutputStream ostream = new ByteArrayOutputStream();
         DataOutputStream dataStream = new DataOutputStream(ostream);
         try {
             dataStream.writeUTF(msg);
@@ -50,7 +50,8 @@ public class SendUDPUtils {
             e.printStackTrace();
         }
         //要发送的信息字节
-        byte[] byteArray = ostream.toByteArray();
+        byte[] byteArray = ostream.toByteArray();*/
+        byte[] byteArray = msg.getBytes();
         return byteArray;
     }
 }
