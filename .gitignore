@@ -1,5 +1,5 @@
 *.iml
-target
 /monitoring-server/target
 /monitoring-client/target
-*/.idea/
+/monitoring-server/.idea
+/monitoring-client/.idea
