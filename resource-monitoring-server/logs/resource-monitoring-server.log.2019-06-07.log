@@ -1,0 +1,123 @@
+2019-06-07 12:10:18.925 [main] INFO  com.ahchentong.socket.rms.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 29396 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 12:10:18.928 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 12:10:19.536 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 12:10:19.545 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 12:10:19.552 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 12:10:19.552 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 12:10:19.610 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 12:10:19.610 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 652 ms
+2019-06-07 12:10:19.639 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 12:10:19.745 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 12:10:19.844 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 12:10:19.874 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 12:10:19.877 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.192 seconds (JVM running for 1.901)
+2019-06-07 12:10:19.879 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 12:10:19.879 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 12:11:01.966 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 12:11:04.026 [main] INFO  com.ahchentong.socket.rms.pplication - Starting Application on luohaoyudeMacBook-Pro.local with PID 29421 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 12:11:04.028 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 12:11:04.688 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 12:11:04.697 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 12:11:04.704 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 12:11:04.704 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 12:11:04.768 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 12:11:04.768 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 709 ms
+2019-06-07 12:11:04.798 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 12:11:04.909 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 12:11:05.010 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 12:11:05.039 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 12:11:05.042 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.237 seconds (JVM running for 1.698)
+2019-06-07 12:11:05.044 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 12:11:05.044 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 12:11:48.240 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 12:13:41.302 [main] INFO  com.ahchentong.socket.rms.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 29520 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 12:13:41.304 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 12:13:41.947 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 12:13:41.956 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 12:13:41.962 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 12:13:41.962 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 12:13:42.012 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 12:13:42.013 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 674 ms
+2019-06-07 12:13:42.043 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 12:13:42.146 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 12:13:42.251 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 12:13:42.281 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 12:13:42.284 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.222 seconds (JVM running for 1.766)
+2019-06-07 12:13:42.285 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 12:13:42.285 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 12:19:57.115 [pool-1-thread-1] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=62084,localport=15536]
+2019-06-07 12:20:49.211 [pool-1-thread-2] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/0:0:0:0:0:0:0:1,port=62943,localport=15536]
+2019-06-07 12:20:49.211 [pool-1-thread-3] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/0:0:0:0:0:0:0:1,port=62944,localport=15536]
+2019-06-07 12:21:46.156 [http-nio-15535-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-07 12:21:46.157 [http-nio-15535-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-06-07 12:21:46.167 [http-nio-15535-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 10 ms
+2019-06-07 13:24:25.964 [main] INFO  com.ahchentong.socket.rms.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30105 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 13:24:25.973 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:24:26.628 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 13:24:26.637 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:24:26.644 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:24:26.644 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:24:26.699 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:24:26.699 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 697 ms
+2019-06-07 13:24:26.731 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 13:24:26.844 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:24:26.945 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:24:26.973 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 13:24:26.976 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.307 seconds (JVM running for 1.946)
+2019-06-07 13:24:26.977 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 13:24:26.978 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 13:27:12.838 [pool-1-thread-1] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=61849,localport=15536]
+2019-06-07 13:27:39.040 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:27:41.220 [main] INFO  com.ahchentong.socket.rms.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30209 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 13:27:41.222 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:27:41.877 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 13:27:41.887 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:27:41.894 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:27:41.894 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:27:41.946 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:27:41.946 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 692 ms
+2019-06-07 13:27:41.977 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 13:27:42.085 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:27:42.198 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:27:42.225 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 13:27:42.228 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.237 seconds (JVM running for 1.743)
+2019-06-07 13:27:42.230 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 13:27:42.230 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 13:29:10.193 [pool-1-thread-1] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=63758,localport=15536]
+2019-06-07 13:29:18.059 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:29:59.263 [main] INFO  com.ahchentong.socket.rms.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30274 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 13:29:59.266 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:29:59.913 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 13:29:59.922 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:29:59.929 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:29:59.929 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:29:59.978 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:29:59.979 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 680 ms
+2019-06-07 13:30:00.009 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 13:30:00.112 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:30:00.211 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:30:00.239 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 13:30:00.241 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.208 seconds (JVM running for 1.748)
+2019-06-07 13:30:00.243 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 13:30:00.243 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 13:30:22.585 [pool-1-thread-1] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=64944,localport=15536]
+2019-06-07 13:34:31.486 [pool-1-thread-2] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=52560,localport=15536]
+2019-06-07 13:39:22.781 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:39:25.588 [main] INFO  com.ahchentong.socket.rms.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30581 (/Users/lhy/Projects/JavaProjects/resource-monitoring-server/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-server)
+2019-06-07 13:39:25.590 [main] INFO  com.ahchentong.socket.rms.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:39:26.200 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15535 (http)
+2019-06-07 13:39:26.208 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:39:26.216 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:39:26.216 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:39:26.276 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:39:26.276 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 650 ms
+2019-06-07 13:39:26.304 [main] INFO  o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - Autowired annotation is not supported on static fields: public static com.ahchentong.socket.rms.bean.socket.SocketInfo com.ahchentong.socket.rms.Application.socketInfo
+2019-06-07 13:39:26.416 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:39:26.529 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15535"]
+2019-06-07 13:39:26.556 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15535 (http) with context path ''
+2019-06-07 13:39:26.558 [main] INFO  com.ahchentong.socket.rms.Application - Started Application in 1.213 seconds (JVM running for 1.815)
+2019-06-07 13:39:26.560 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 端口启动在：15536端口。
+2019-06-07 13:39:26.560 [main] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 服务器运行...
+2019-06-07 13:39:54.363 [pool-1-thread-1] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=57899,localport=15536]
+2019-06-07 13:42:44.223 [pool-1-thread-2] INFO  com.ahchentong.socket.rms.util.SocketServerUtils - 收到客户端消息：Socket[addr=/127.0.0.1,port=60645,localport=15536]
+2019-06-07 13:46:15.495 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

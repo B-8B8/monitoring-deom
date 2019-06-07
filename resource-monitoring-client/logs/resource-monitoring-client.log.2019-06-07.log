@@ -1,0 +1,64 @@
+2019-06-07 12:19:55.110 [main] INFO  com.ahchentong.socket.rmc.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 29664 (/Users/lhy/Projects/JavaProjects/resource-monitoring-client/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-client)
+2019-06-07 12:19:55.112 [main] INFO  com.ahchentong.socket.rmc.Application - No active profile set, falling back to default profiles: default
+2019-06-07 12:19:55.772 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15537 (http)
+2019-06-07 12:19:55.781 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15537"]
+2019-06-07 12:19:55.788 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 12:19:55.789 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 12:19:55.843 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 12:19:55.843 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 702 ms
+2019-06-07 12:19:55.985 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 12:19:56.079 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15537"]
+2019-06-07 12:19:56.106 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15537 (http) with context path ''
+2019-06-07 12:19:56.109 [main] INFO  com.ahchentong.socket.rmc.Application - Started Application in 1.258 seconds (JVM running for 1.909)
+2019-06-07 12:22:17.466 [http-nio-15537-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-07 12:22:17.468 [http-nio-15537-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-06-07 12:22:17.472 [http-nio-15537-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-06-07 13:27:07.911 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:27:10.872 [main] INFO  com.ahchentong.socket.rmc.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30189 (/Users/lhy/Projects/JavaProjects/resource-monitoring-client/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-client)
+2019-06-07 13:27:10.875 [main] INFO  com.ahchentong.socket.rmc.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:27:11.487 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15537 (http)
+2019-06-07 13:27:11.496 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15537"]
+2019-06-07 13:27:11.502 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:27:11.503 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:27:11.555 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:27:11.555 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 650 ms
+2019-06-07 13:27:11.692 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:27:11.798 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15537"]
+2019-06-07 13:27:11.827 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15537 (http) with context path ''
+2019-06-07 13:27:11.830 [main] INFO  com.ahchentong.socket.rmc.Application - Started Application in 1.199 seconds (JVM running for 1.857)
+2019-06-07 13:27:29.613 [http-nio-15537-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-07 13:27:29.614 [http-nio-15537-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-06-07 13:27:29.617 [http-nio-15537-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2019-06-07 13:34:17.408 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:34:20.055 [main] INFO  com.ahchentong.socket.rmc.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30403 (/Users/lhy/Projects/JavaProjects/resource-monitoring-client/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-client)
+2019-06-07 13:34:20.057 [main] INFO  com.ahchentong.socket.rmc.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:34:20.695 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15537 (http)
+2019-06-07 13:34:20.704 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15537"]
+2019-06-07 13:34:20.710 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:34:20.711 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:34:20.760 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:34:20.760 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 670 ms
+2019-06-07 13:34:20.892 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:34:20.988 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15537"]
+2019-06-07 13:34:21.017 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15537 (http) with context path ''
+2019-06-07 13:34:21.020 [main] INFO  com.ahchentong.socket.rmc.Application - Started Application in 1.192 seconds (JVM running for 1.625)
+2019-06-07 13:34:31.461 [http-nio-15537-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-07 13:34:31.461 [http-nio-15537-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-06-07 13:34:31.464 [http-nio-15537-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2019-06-07 13:42:19.083 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:42:21.698 [main] INFO  com.ahchentong.socket.rmc.Application - Starting Application on luohaoyudeMacBook-Pro.local with PID 30667 (/Users/lhy/Projects/JavaProjects/resource-monitoring-client/target/classes started by lhy in /Users/lhy/Projects/JavaProjects/resource-monitoring-client)
+2019-06-07 13:42:21.700 [main] INFO  com.ahchentong.socket.rmc.Application - No active profile set, falling back to default profiles: default
+2019-06-07 13:42:22.304 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 15537 (http)
+2019-06-07 13:42:22.313 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-15537"]
+2019-06-07 13:42:22.320 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-06-07 13:42:22.320 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-07 13:42:22.369 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-06-07 13:42:22.370 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 636 ms
+2019-06-07 13:42:22.502 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-07 13:42:22.598 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-15537"]
+2019-06-07 13:42:22.625 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 15537 (http) with context path ''
+2019-06-07 13:42:22.628 [main] INFO  com.ahchentong.socket.rmc.Application - Started Application in 1.161 seconds (JVM running for 1.746)
+2019-06-07 13:42:44.196 [http-nio-15537-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-07 13:42:44.197 [http-nio-15537-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-06-07 13:42:44.201 [http-nio-15537-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2019-06-07 13:46:23.961 [Thread-5] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'

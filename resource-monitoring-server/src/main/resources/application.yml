@@ -1,0 +1,5 @@
+server:
+  port: 15535
+socket:
+  port:
+    server_port: 15536

@@ -1,0 +1,8 @@
+#logging:
+#  level:
+#    xatu.zsl: debug
+#    org.springfromework.web: info
+#    org.hibernate: error
+#  file: log/client_logger.log
+server:
+  port: 15537
